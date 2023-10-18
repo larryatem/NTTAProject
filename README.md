@@ -1,2 +1,2 @@
 # NTTAProject
-App for NTTA project
+App for NTTA TTS Project
